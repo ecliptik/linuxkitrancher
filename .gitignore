@@ -1,0 +1,8 @@
+images/
+*.swp
+*-bzImage
+*-cmdline
+*-initrd.img
+*.qcow2
+*.vmdk
+*.iso

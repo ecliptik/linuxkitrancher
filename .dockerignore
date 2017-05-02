@@ -1,0 +1,12 @@
+images
+configs
+Dockerfile
+.git
+.gitignore
+*.md
+*-bzImage
+*-cmdline
+*-initrd.img
+*.qcow2
+*.vmdk
+*.iso
